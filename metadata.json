@@ -1,0 +1,6 @@
+{
+  "name": "EcoWeave Manufacturing Suite",
+  "description": "Full-stack Sustainable Textile Manufacturing and Production Tracking System with C++17 Crow REST API, MySQL persistence, and React operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
